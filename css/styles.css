@@ -36,6 +36,7 @@ ul {
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 p {
@@ -49,6 +50,7 @@ p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .nav-list-link:hover, .contacts-list-link:hover, .nav-list-link:focus,
@@ -97,6 +99,7 @@ p {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .features-card-text {
@@ -109,11 +112,16 @@ p {
     background-color: #f4f4fd;
 }
 
+.team-card {
+    background-color: #FFFFFF;
+}
+
 .team-card-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .team-card-text {
