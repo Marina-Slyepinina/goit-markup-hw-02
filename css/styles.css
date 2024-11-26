@@ -1,0 +1,138 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+}
+
+.logo-web {
+    color: #4d5ae5;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+p {
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* ---------- HEADER ---------- */
+.link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.nav-list-link:hover, .contacts-list-link:hover {
+    color: #404bbf;
+}
+
+.contacts-list-link {
+    color: #434455;
+}
+
+/* ---------- HERO ---------- */
+.hero-section {
+    background-color: #2e2f42;
+    color: #fff;
+}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.hero-button {
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    background: #4d5ae5;
+    cursor: pointer;
+}
+
+.hero-button:hover {
+    background: #404bbf;
+}
+
+/* ---------- Features ---------- */
+.features-card-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.features-card-text {
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* ---------- Our Team ---------- */
+.team-section {
+    background-color: #f4f4fd;
+}
+
+.team-card-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.team-card-text {
+    text-align: center;
+    color: #434455;
+}
+
+/* ---------- Our Portfolio ---------- */
+.portfolio-card-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-card-text {
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* ---------- FOOTER ---------- */
+footer{
+   color: #f4f4fd; 
+   background-color: #2e2f42;
+}
+
+.footer-text {
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
